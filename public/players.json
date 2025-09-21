@@ -1,0 +1,122 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/DgpwwtPG/179559-117.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Afif Hossain",
+    "playing_role": "All-rounder",
+    "rating": 4.1,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "BDT 45,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/RTysYckp/Mohammad-Naim-Sheikh.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Mohammad Naim",
+    "playing_role": "Batsman",
+    "rating": 3.8,
+    "bating_style": "Left-handed",
+    "bowling_style": "N/A",
+    "price": "BDT 30,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/8gn6ZRLd/download.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Litton Das",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 4.6,
+    "bating_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "BDT 60,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/LDhP14N0/images.jpg",
+    "player_country": "West Indies",
+    "player_name": "Nicholas Pooran",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 4.9,
+    "bating_style": "Left-handed",
+    "bowling_style": "N/A",
+    "price": "USD 75,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/PzgJmpQ9/images-1.jpg",
+    "player_country": "England",
+    "player_name": "Dawid Malan",
+    "playing_role": "Batsman",
+    "rating": 4.7,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "price": "USD 65,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/x8849F2v/images-2.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Hasan Mahmud",
+    "playing_role": "Bowler",
+    "rating": 4.0,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "BDT 40,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/ynNwJFCk/skysports-moeen-ali-the-ashes-4744522.jpg",
+    "player_country": "England",
+    "player_name": "Moeen Ali",
+    "playing_role": "All-rounder",
+    "rating": 4.8,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "USD 80,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/8ysxF0L/images-3.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Mahedi Hasan",
+    "playing_role": "All-rounder",
+    "rating": 4.3,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "BDT 50,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/CKgf2W6F/download-1.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Soumya Sarkar",
+    "playing_role": "All-rounder",
+    "rating": 3.9,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "BDT 35,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/tMf39s0V/images-4.jpg",
+    "player_country": "West Indies",
+    "player_name": "Andre Russell",
+    "playing_role": "All-rounder",
+    "rating": 5.0,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "USD 90,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/CKHTHvXg/images-5.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Towhid Hridoy",
+    "playing_role": "Batsman",
+    "rating": 4.4,
+    "bating_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "BDT 55,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/LXRfwt2y/images-6.jpg",
+    "player_country": "Bangladesh",
+    "player_name": "Mohammad Saifuddin",
+    "playing_role": "All-rounder",
+    "rating": 4.2,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "BDT 40,00,000"
+  }
+]
