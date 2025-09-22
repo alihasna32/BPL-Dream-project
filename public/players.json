@@ -7,7 +7,7 @@
     "rating": 4.1,
     "bating_style": "Left-handed",
     "bowling_style": "Right-arm off-break",
-    "price": "BDT 45,00,000"
+    "price": " 4500000"
   },
   {
     "player_img": "https://i.ibb.co.com/RTysYckp/Mohammad-Naim-Sheikh.jpg",
@@ -17,7 +17,7 @@
     "rating": 3.8,
     "bating_style": "Left-handed",
     "bowling_style": "N/A",
-    "price": "BDT 30,00,000"
+    "price": " 3000000"
   },
   {
     "player_img": "https://i.ibb.co.com/8gn6ZRLd/download.jpg",
@@ -27,7 +27,7 @@
     "rating": 4.6,
     "bating_style": "Right-handed",
     "bowling_style": "N/A",
-    "price": "BDT 60,00,000"
+    "price": " 6000000"
   },
   {
     "player_img": "https://i.ibb.co.com/LDhP14N0/images.jpg",
@@ -37,7 +37,7 @@
     "rating": 4.9,
     "bating_style": "Left-handed",
     "bowling_style": "N/A",
-    "price": "USD 75,000"
+    "price": " 75000"
   },
   {
     "player_img": "https://i.ibb.co.com/PzgJmpQ9/images-1.jpg",
@@ -47,7 +47,7 @@
     "rating": 4.7,
     "bating_style": "Left-handed",
     "bowling_style": "Right-arm leg-break",
-    "price": "USD 65,000"
+    "price": " 65000"
   },
   {
     "player_img": "https://i.ibb.co.com/x8849F2v/images-2.jpg",
@@ -57,7 +57,7 @@
     "rating": 4.0,
     "bating_style": "Right-handed",
     "bowling_style": "Right-arm fast-medium",
-    "price": "BDT 40,00,000"
+    "price": " 4000000"
   },
   {
     "player_img": "https://i.ibb.co.com/ynNwJFCk/skysports-moeen-ali-the-ashes-4744522.jpg",
@@ -67,7 +67,7 @@
     "rating": 4.8,
     "bating_style": "Left-handed",
     "bowling_style": "Right-arm off-break",
-    "price": "USD 80,000"
+    "price": " 80000"
   },
   {
     "player_img": "https://i.ibb.co.com/8ysxF0L/images-3.jpg",
@@ -77,7 +77,7 @@
     "rating": 4.3,
     "bating_style": "Right-handed",
     "bowling_style": "Right-arm off-break",
-    "price": "BDT 50,00,000"
+    "price": " 5000000"
   },
   {
     "player_img": "https://i.ibb.co.com/CKgf2W6F/download-1.jpg",
@@ -87,7 +87,7 @@
     "rating": 3.9,
     "bating_style": "Left-handed",
     "bowling_style": "Right-arm medium-fast",
-    "price": "BDT 35,00,000"
+    "price": " 3500000"
   },
   {
     "player_img": "https://i.ibb.co.com/tMf39s0V/images-4.jpg",
@@ -97,7 +97,7 @@
     "rating": 5.0,
     "bating_style": "Right-handed",
     "bowling_style": "Right-arm fast",
-    "price": "USD 90,000"
+    "price": " 90000"
   },
   {
     "player_img": "https://i.ibb.co.com/CKHTHvXg/images-5.jpg",
@@ -107,7 +107,7 @@
     "rating": 4.4,
     "bating_style": "Right-handed",
     "bowling_style": "N/A",
-    "price": "BDT 55,00,000"
+    "price": " 5500000"
   },
   {
     "player_img": "https://i.ibb.co.com/LXRfwt2y/images-6.jpg",
@@ -117,6 +117,6 @@
     "rating": 4.2,
     "bating_style": "Left-handed",
     "bowling_style": "Right-arm medium-fast",
-    "price": "BDT 40,00,000"
+    "price": " 4000000"
   }
 ]
