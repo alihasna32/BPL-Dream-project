@@ -107,3 +107,26 @@ function App() {
 }
 
 export default App;
+
+/*
+🟢 Flow (Beginner-friendly)
+
+Navbar → balance দেখায়।
+
+Toggle Button → Available / Selected players switch করে।
+
+AvailablePlayer → সব players card আকারে দেখায়।
+
+PlayerCard → Select করলে:
+
+balance থেকে দাম কমবে
+
+purchased list এ player যাবে
+
+toast দেখাবে
+
+SelectedPlayer → শুধুমাত্র যাদের select করা হয়েছে তাদের দেখায়।
+
+SelectedCard → Remove করলে player বাদ যাবে এবং balance ফেরত আসবে।
+
+*/
