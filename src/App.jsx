@@ -23,6 +23,8 @@ function App() {
   // toggle state → Available/Selected Players এর মধ্যে switch করার জন্য
   const [toggle, setToggle] = useState(true);
 
+
+
   // শুরুতে available balance → 360034000 coins
   const [availableBalance, setAvailableBalance] = useState(360034000);
 
@@ -38,6 +40,10 @@ function App() {
     // remove করলে তার দাম ফেরত balance এ যোগ হবে
     setAvailableBalance(availableBalance + parseInt(p.price));
   };
+
+  const addMorePlayer = () => { 
+    setToggle(true)
+  }
 
   return (
     <>
@@ -96,7 +102,8 @@ function App() {
       ) : (
         <SelectedPlayer 
           removePlayer={removePlayer} 
-          purchasedPlayer={purchasedPlayer}>
+          purchasedPlayer={purchasedPlayer}
+          addMorePlayer={addMorePlayer}>
         </SelectedPlayer>
       )}
 
@@ -111,22 +118,19 @@ export default App;
 /*
 🟢 Flow (Beginner-friendly)
 
-Navbar → balance দেখায়।
+1) Navbar → balance দেখায়।
 
-Toggle Button → Available / Selected players switch করে।
+2) Toggle Button → Available / Selected players switch করে।
 
-AvailablePlayer → সব players card আকারে দেখায়।
+3) AvailablePlayer → সব players card আকারে দেখায়।
 
-PlayerCard → Select করলে:
+4) PlayerCard → Select করলে:
+  ** balance থেকে দাম কমবে
+  ** purchased list এ player যাবে
+  ** toast দেখাবে
 
-balance থেকে দাম কমবে
+5) SelectedPlayer → শুধুমাত্র যাদের select করা হয়েছে তাদের দেখায়।
 
-purchased list এ player যাবে
-
-toast দেখাবে
-
-SelectedPlayer → শুধুমাত্র যাদের select করা হয়েছে তাদের দেখায়।
-
-SelectedCard → Remove করলে player বাদ যাবে এবং balance ফেরত আসবে।
+6) SelectedCard → Remove করলে player বাদ যাবে এবং balance ফেরত আসবে।
 
 */
